@@ -5,7 +5,6 @@
 - Python Developer
 - Rust Enthusiast
 - interested in how things work underneath
-- generally like poking things
 
 ### open source projects
 
